@@ -1,0 +1,172 @@
+s.menu {
+    height: 5%;
+    width: 84%
+    border: 2px #7cd66a solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.9 ), rgba(125,214,106,0.9));
+    
+}
+
+body {
+    background: url(http://fanaru.com/green/image/140135-green-arts-green.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logo {
+}
+
+.logoimg {
+    height: 103.75px;
+    width: 128px;
+}
+
+.main {
+    width: 85%;
+}
+
+.logogroup {
+    width: 50%
+}
+
+.menulink {
+    font: 14pt arial;
+    border-left: 2px #47a20b solid;
+    border-right: 2px #47a20b solid;
+    background: linear-gradient(to bottom right, #51cc00, #3b9300);
+}
+
+.mainblock {
+    position: absolute;
+    left: 3.5%;
+    width: 58%;
+}
+
+.body {
+    position: relative;
+    z-index: 0;
+    width: 84%;
+    margin: auto;
+    top: 25px;
+    padding: 10px;
+}
+
+.block {
+    width: 100%;
+    height: 1275px;
+    border: 3px #47a20b solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.38 ), rgba(125,214,106,0.38));
+}
+
+.secondblock {
+    position: absolute;
+    right: 2%;
+}
+
+.mainimg {
+width: 85%;
+    height: 85%;
+}
+
+a {
+    color: black;
+}
+
+.styleblock {
+    border: 2px rgba( 165, 255, 107, 0.5 ) solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.7 ), rgba(125,214,106,0.7));
+    width: 55%;
+}
+
+h4 {
+    font-style: italic;
+}
+
+.styleblockpost {
+    border: 2px rgba( 165, 255, 107, 0.5 ) solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.5 ), rgba(125,214,106,0.5));
+}
+
+.menulinkclass {
+    text-decoration: none;
+    color: black;
+}
+
+.secondblockpast {
+    border: 2px rgba( 165, 255, 107, 0.5 ) solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.5 ), rgba(125,214,106,0.5));
+}
+
+ep {
+    text-indent: 25px;
+}
+
+
+
+p {
+    text-indent: 25px;
+}
+
+.menulink2 {
+    height: 75%;
+    font: 14pt arial;
+    border-left: 2px #47a20b solid;
+    border-right: 2px #47a20b solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, #51cc00, #3b9300);
+}
+
+.menu2 {
+    height: 6%;
+    width: 60%;
+    border: 2px #7cd66a solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.9 ), rgba(125,214,106,0.9));
+}
+
+.styleblock2 {
+    border: 2px rgba( 165, 255, 107, 0.5 ) solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.7 ), rgba(125,214,106,0.7));
+    width: 45%;
+}
+
+.br2 {
+    height: 15%
+}
+
+.align_menu {
+    text-align: center;
+}
+
+.statepage {
+    height: 150px;
+    width: 200px;
+}
+
+.menulink3 {
+        height: 75%;
+    width: 25% ;
+    font: 20pt arial;
+    border-left: 2px #47a20b solid;
+    border-right: 2px #47a20b solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, #51cc00, #3b9300);
+}
+
+.br3 {
+        height: 15%
+}
+
+.menu3 {
+    height: 6%;
+    width: 30%;
+    border: 2px #7cd66a solid;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgba( 165, 255, 107, 0.9 ), rgba(125,214,106,0.9));
+}
+}
